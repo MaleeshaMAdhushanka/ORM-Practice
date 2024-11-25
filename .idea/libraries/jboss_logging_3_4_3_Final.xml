@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="jboss-logging-3.4.3.Final">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/lk/ijse/lib/jboss-logging-3.4.3.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lk/ijse/lib/mysql-connector-j-8.0.32.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lk/ijse/lib/jaxb-api-2.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lk/ijse/lib/txw2-2.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lk/ijse/lib/jboss-transaction-api_1.2_spec-1.1.1.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lk/ijse/lib/jaxb-runtime-2.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lk/ijse/lib/stax-ex-1.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lk/ijse/lib/antlr-2.7.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lk/ijse/lib/byte-buddy-1.12.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lk/ijse/lib/classmate-1.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lk/ijse/lib/FastInfoset-1.2.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lk/ijse/lib/hibernate-commons-annotations-5.1.2.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lk/ijse/lib/hibernate-core-5.6.5.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lk/ijse/lib/istack-commons-runtime-3.0.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lk/ijse/lib/jandex-2.4.2.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lk/ijse/lib/javax.activation-api-1.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lk/ijse/lib/javax.persistence-api-2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
