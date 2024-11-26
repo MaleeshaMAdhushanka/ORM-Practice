@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/PracticeOrm.iml" filepath="$PROJECT_DIR$/PracticeOrm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PropertiyFileConfig.iml" filepath="$PROJECT_DIR$/PropertiyFileConfig.iml" />
     </modules>
   </component>
 </project>
